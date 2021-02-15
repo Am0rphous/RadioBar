@@ -3,7 +3,7 @@ Todo: https://tunein.com/radio/TOPradio-919-s80808/
 
 MacOS menubar app to play user-defined radio stations with help from [rumps](https://github.com/jaredks/rumps) and VLC. It includes a `remote` to switch channels, on/off, pause/resume etc. Forked from [RadioBar](https://github.com/wass3r/RadioBar) by [David May](https://github.com/wass3r).
 
-![screenshot](screenshot.png)
+![icons/screenshot](screenshot.png)
 
 ## Features
 
