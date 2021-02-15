@@ -1,26 +1,27 @@
 {"channels": [
+        {
+                "title": "Beat FM - We Love Music",
+                "url": "http://stream.thebeat.no/beat64.aac"
+        },
+        {
+                "title": "NRK Alltid Nyheter",
+                "url": "http://nrk-alltid-nyheter.akamaized.net/40/0/hls/nrk_alltid_nyheter/1474703433-1474703433-17386075009272.ts"
+        },
+        {
+                "title": "NRK mp3",
+                "url": "http://nrklivemp3-httpcache0-47115-httpcache0.dna.ip-only.net/47115-cachelive2/41/0/hls/nrk_mp3/playlist.m3u8"
+        },
 	{
-		"title": "NPO Radio 1",
-		"url": "http://icecast.omroep.nl/radio1-bb-mp3"
+		"title": "Radio Bø",
+		"url": "https://nettradio.radiobo.com/radiobo-high"
 	},
 	{
-		"title": "NPO Radio 2",
-		"url": "http://icecast.omroep.nl/radio2-bb-mp3"
+		"title": "Russia Goes Clubbing",
+		"url": "https://nettradio.radiobo.com/radiobo-high"
 	},
 	{
-		"title": "NPO 3FM",
-		"url": "http://icecast.omroep.nl/3fm-bb-mp3"
+		"title": "TOPradio",
+		"url": "http://195.13.200.164:8000/;"
 	},
-	{
-		"title": "NPO Radio 4",
-		"url": "http://icecast.omroep.nl/radio4-bb-mp3"
-	},
-	{
-		"title": "NPO Radio 5",
-		"url": "http://icecast.omroep.nl/radio5-bb-mp3"
-	},
-	{
-		"title": "BNR Nieuwsradio",
-		"url": "http://icecast-bnr.cdp.triple-it.nl/bnr_mp3_128_03"
-	}
+	
 ]}
